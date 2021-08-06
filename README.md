@@ -1,8 +1,9 @@
 # NLP_Deploy
 Predict Wheteher Patient or Not
 
-Analysis of Patient Data.ipynb -- Describe Analysis of Data
+Analysis of Patient Data.ipynb -- Detailed Analysis of Data with Visualization
 
+I have used Flask API to integrate my python script with a web application. Deployment is done on Heroku cloud platform. Following is the link to the web application: https://nlp-test-deploy.herokuapp.com/
 
 ## Prerequisites
 
