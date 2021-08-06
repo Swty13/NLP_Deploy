@@ -18,9 +18,11 @@ Requirements : requirements.txt (all necessary libraries)
 
 The projects has following major parts:
 
-app.py : Contains Flask APIs that receive inputs through GUI, calls the main python script for processing and returns the output.
-predict.py : Contains python code to predict pateint or not.
-templates : Contains HTML files that allow user to interact with the application.
+1. app.py : Contains Flask APIs that receive inputs through GUI, calls the main python script for processing and returns the output.
+
+2. predict.py : Contains python code to predict pateint or not.
+
+3. templates : Contains HTML files that allow user to interact with the application.
 
 
 ## Running the Project
